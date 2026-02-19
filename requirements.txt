@@ -18,3 +18,5 @@ gradio==4.36.1
 ollama==0.2.1
 spacy==3.8.7
 nltk==3.9.1
+requests==2.31.0
+pysentimiento==0.7.3
